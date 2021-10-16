@@ -1,0 +1,22 @@
+{
+  "name": "base-3",
+  "version": "1.0.0",
+  "description": "aplicacion basica calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franco20122012/base-3.git"
+  },
+  "author": "Alejandro Telmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franco20122012/base-3/issues"
+  },
+  "homepage": "https://github.com/franco20122012/base-3#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
