@@ -1,2 +1,6 @@
 # base-3
-practicando
+npm
+node 
+nodemon
+package.json
+

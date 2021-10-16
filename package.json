@@ -18,5 +18,8 @@
   "homepage": "https://github.com/franco20122012/base-3#readme",
   "devDependencies": {
     "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "yargs": "^17.2.1"
   }
 }
